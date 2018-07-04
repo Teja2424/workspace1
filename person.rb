@@ -11,6 +11,6 @@ puts s.inspect
 s.name="sai"
 s.address="pune"
 puts s.inspect
-B=Person.new("sindu","bang")
-puts B.inspect
+b=Person.new("sindu","bang")
+puts b.inspect
 
